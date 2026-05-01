@@ -1,0 +1,20 @@
+# Archivos compilados
+target/
+*.class
+
+# Base de datos local (SQLite)
+*.db
+*.db-journal
+
+# Archivos de configuración del IDE
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+.vscode/
+bin/
+
+# Archivos temporales
+*.log
+~$*
